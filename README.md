@@ -10,7 +10,7 @@ Embed your BlockStack profile badge on any site.
 1) Add this JS script in the header of the page you want your BlockStack badge to be displayed:
 
 ```
-<script src="https://rawgit.com/jesalg/blockstack-badge/master/dist/js/app.ebb8ebb7.js" type="text/javascript"></script>
+<script src="https://rawgit.com/jesalg/blockstack-badge/master/dist/embed.js" type="text/javascript"></script>
 ```
 
 2) Add this div wherever you want your badge to be displayed on that page and update the `data-profile` attribute with appropriate BlockStack ID:
