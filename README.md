@@ -21,6 +21,10 @@ Embed your BlockStack profile badge on any site.
 
 ## Developers
 
+Install dependencies:
+
+`npm install`
+
 To run the demo app locally:
 
 `npm run serve`
